@@ -1,0 +1,54 @@
+{
+    "gameName": "ksab",
+    "players": {
+        "max": 4,
+        "min": 2
+    },
+    "chips": {
+        "two": 4,
+        "three": 5,
+        "four": 6
+    },
+    "cards": [
+        {
+            "name": "1",
+            "src": "one.png",
+            "value": 1
+        },
+        {
+            "name": "2",
+            "src": "two.png",
+            "value": 1
+        },
+        {
+            "name": "3",
+            "src": "three.png",
+            "value": 3
+        },
+        {
+            "name": "4",
+            "src": "four.png",
+            "value": 4
+        },
+        {
+            "name": "5",
+            "src": "five.png",
+            "value": 5
+        },
+        {
+            "name": "6",
+            "src": "six.png",
+            "value": 6
+        },
+        {
+            "name": "wild",
+            "src": "wild.png",
+            "value": 0
+        },
+        {
+            "name": "mirror",
+            "src": "mirror.png",
+            "value": 0
+        }
+    ]
+}
